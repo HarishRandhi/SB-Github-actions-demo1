@@ -11,7 +11,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>springboot-github-actions-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>springboot-github-actions-demo</name>
+	<name>springboot-github-actions</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
